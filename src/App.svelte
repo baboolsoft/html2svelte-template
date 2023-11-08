@@ -51,7 +51,7 @@
           </div> -->
           <div class="bi-header-cta-btn-grp d-flex align-items-center">
             <div class="cart-btn position-relative header-cart-btn">
-              <button><i class="fab fa-opencart" /></button>
+              <!-- <button><i class="fab fa-opencart" /></button> -->
               <!-- <span>2</span> -->
             </div>
             <div class="offcanves-btn navSidebar-button">
@@ -327,10 +327,7 @@
                       >
                         <div class="bi-slide-img-area position-relative">
                           <div class="bi-slide-img">
-                            <img
-                              src="assets/img/slider/slide_img_2.png"
-                              alt=""
-                            />
+                            <img src="assets/img/slider/nn.png" alt="" />
                           </div>
                           <div class="bi-slide-text-img position-absolute">
                             <img
@@ -380,10 +377,7 @@
                       >
                         <div class="bi-slide-img-area position-relative">
                           <div class="bi-slide-img">
-                            <img
-                              src="assets/img/slider/slide_img_2.png"
-                              alt=""
-                            />
+                            <img src="assets/img/slider/nn.png" alt="" />
                           </div>
                           <div class="bi-slide-text-img position-absolute">
                             <img
@@ -1606,7 +1600,7 @@
 
     <!-- Start of Video Play  section
 	============================================= -->
-    <section
+    <!-- <section
       id="bi-video-play"
       class="bi-video-play-section"
       data-background="assets/img/bg/faq-bg.jpg"
@@ -1616,7 +1610,7 @@
           ><img src="assets/img/logo/play1.png" alt="" /></a
         >
       </div>
-    </section>
+    </section> -->
     <!-- End of Video Play  section
 	============================================= -->
 
@@ -1834,7 +1828,7 @@
             <a href="#"><img src="assets/img/logo/logo2.png" alt="" /></a>
           </div>
           <div class="logo-mail text-center headline">
-            <h3><a href="#">email@webs.com</a></h3>
+            <!-- <h3><a href="#">email@webs.com</a></h3> -->
           </div>
         </div>
       </div>
